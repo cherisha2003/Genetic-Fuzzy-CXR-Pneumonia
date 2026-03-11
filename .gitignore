@@ -6,6 +6,23 @@ __pycache__/
 # C extensions
 *.so
 
+# Ignore dataset
+data/
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Mac files
+.DS_Store
+
+# model outputs
+models/
+results/
+
 # Distribution / packaging
 .Python
 build/
